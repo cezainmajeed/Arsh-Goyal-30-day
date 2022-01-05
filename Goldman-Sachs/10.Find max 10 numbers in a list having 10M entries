@@ -1,0 +1,3 @@
+naive approach : Sort array and find greatest 10.  time= nlogn
+
+efficient : Use priority queue    time=nlogk
